@@ -10,6 +10,11 @@ The system consists of:
 - **Shared Memory**: Centralized task queue accessible by all processes with proper synchronization
 - **Shell Interface**: Operator-friendly scripts for task management and monitoring
 
+**Members**
+- Abdul Haseeb
+- Raja Ammar
+- Nouman Zahid
+
 ## Features
 
 - Priority-based task scheduling (HIGH, MEDIUM, LOW)
